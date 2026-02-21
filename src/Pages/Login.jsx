@@ -81,7 +81,7 @@ export default function Login() {
             fname: user.fname,
             lname: user.lname,
             radioselect: user.radioselect,
-            radiogender:user.radiogender
+            radiogender: user.radiogender
         }
 
         await API.put('/Login', newdata)
@@ -99,15 +99,22 @@ export default function Login() {
     return (
         <div >
 
-            
+
             {!showdata?.email && (
                 <div className="container-fluid bg-light d-flex justify-content-center align-items-center vh-100">
                     <div className="card p-4 shadow" style={{ width: '420px' }}>
 
                         <p className='text-center'>Login with The Souled Store</p>
                         <div className="text-center mb-3 ">
-                            <button className="btn border py-2 px-5 rounded-0 text-white" style={{ backgroundColor: "#117a7a" }}>LOGIN</button>
-                            <button className="btn border py-2 px-5 rounded-0" onClick={() => navigate('/Register')}>REGISTER</button>
+                            <div className="row g-2 justify-content-center">
+                                <div className="col-6 col-sm-5">
+                                    <button className="btn border py-2 w-100 rounded-0 text-white" style={{ backgroundColor: "#117a7a" }}>LOGIN</button>
+                                </div>
+                                <div className="col-6 col-sm-5">
+
+                                    <button className="btn border py-2 w-100 rounded-0" onClick={() => navigate('/Register')}>REGISTER</button>
+                                </div>
+                            </div>
                         </div>
                         <div className="border p-4" style={{ backgroundColor: '#f1f1f2' }}>
                             <form onSubmit={handlesubmit}>
@@ -134,30 +141,34 @@ export default function Login() {
 
 
                                 <div className="mt-3">
-                                    <label className="me-2">Select:</label>
-
-                                    <div className="form-check form-check-inline">
-                                        <input
-                                            className="form-check-input"
-                                            type="radio"
-                                            name="radioselect"
-                                            value="admin"
-                                            checked={logindata.radioselect === 'admin'}
-                                            onChange={handleinput}
-                                        />
-                                        <label className="form-check-label">Admin</label>
-                                    </div>
-
-                                    <div className="form-check form-check-inline">
-                                        <input
-                                            className="form-check-input"
-                                            type="radio"
-                                            name="radioselect"
-                                            value="Customer"
-                                            checked={logindata.radioselect === 'Customer'}
-                                            onChange={handleinput}
-                                        />
-                                        <label className="form-check-label">Customer</label>
+                                    <label className="me-2 d-block  text-sm-start">Select:</label>
+                                    <div className="row g-2 ">
+                                        <div className="col-6">
+                                            <div className="form-check">
+                                                <input
+                                                    className="form-check-input"
+                                                    type="radio"
+                                                    name="radioselect"
+                                                    value="admin"
+                                                    checked={logindata.radioselect === 'admin'}
+                                                    onChange={handleinput}
+                                                />
+                                                <label className="form-check-label">Admin</label>
+                                            </div>
+                                        </div>
+                                        <div className="col-6">
+                                            <div className="form-check">
+                                                <input
+                                                    className="form-check-input"
+                                                    type="radio"
+                                                    name="radioselect"
+                                                    value="Customer"
+                                                    checked={logindata.radioselect === 'Customer'}
+                                                    onChange={handleinput}
+                                                />
+                                                <label className="form-check-label">Customer</label>
+                                            </div>
+                                        </div>
                                     </div>
 
                                     <small className="text-danger d-block">

@@ -59,7 +59,7 @@ export default function Daskbord() {
 
         setorderdatas(finaldata);
     };
-console.log(orderdatas)
+
     
     const navigasion = useNavigate()
     const Logout = async () => {

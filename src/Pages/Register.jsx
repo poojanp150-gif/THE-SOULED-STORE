@@ -129,8 +129,13 @@ export default function Register() {
                 <div className="card p-4 shadow rounded-0" style={{ width: '420px' }}>
                     <p className='text-center'>Register with The Souled Store</p>
                     <div className="text-center mb-3 ">
-                        <button className="btn border py-2 px-5 rounded-0" onClick={()=>login('/Login')} >LOGIN</button>
-                        <button className="btn border py-2 px-5 rounded-0 text-white" style={{backgroundColor:"#117a7a"}} >REGISTER</button>
+                         <div className="row g-2 justify-content-center">
+                             <div className="col-6 col-sm-5">
+                        <button className="btn border py-2 w-100 rounded-0" onClick={()=>login('/Login')} >LOGIN</button></div>
+                        <div className="col-6 col-sm-5">
+                        <button className="btn border py-2 w-100 rounded-0 text-white" style={{backgroundColor:"#117a7a"}} >REGISTER</button>
+                        </div>
+                    </div>
                     </div>
                     <div className='border p-4' style={{ backgroundColor: "#f1f1f2" }}>
 

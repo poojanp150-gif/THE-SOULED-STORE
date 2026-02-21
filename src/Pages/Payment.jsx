@@ -76,7 +76,7 @@ export default function Payment() {
             });
             settotalamount(pay.data);
 
-            console.log('Cart cleared successfully')
+            
             navigate("/Thankyouorder")
         } catch (error) {
             console.error('Error clearing cart:', error)

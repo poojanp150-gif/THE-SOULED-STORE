@@ -74,7 +74,7 @@ export default function SingleProductPage() {
           Number(item.id) === Number(id) &&
           item.size === CardData.size
       )
-      console.log(existingItem)
+      
       if (existingItem) {
         await API.patch(`/cart/${existingItem.id}`, {
           quantity: Number(existingItem.quantity) + Number(CardData.quantity)

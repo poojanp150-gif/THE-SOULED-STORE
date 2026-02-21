@@ -34,7 +34,7 @@ export default function Navbar() {
     })
     const checklikelength = (async () => {
         let likel = await API.get("/wishlistProduct")
-        // console.log(likel.data)
+        
         setlikedata(likel.data)
     })
 
