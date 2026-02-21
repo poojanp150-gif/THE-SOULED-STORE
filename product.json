@@ -1,0 +1,488 @@
+{
+  "products": {
+    "men": [
+      {
+        "id": 1,
+        "title": "Luxe Shirt: Cider Brown",
+        "category": "Shirt",
+        "sub_category": "Shirts",
+        "price": 1699,
+        "type": "men",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1768383785_9129415.jpg?w=480&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1768383785_6194746.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1768383785_8786524.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1768383785_2414490.jpg?w=480&dpr=2"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Solids: Brown",
+        "category": "Shirt",
+        "sub_category": "Men Utility Shirts",
+        "price": 1299,
+        "type": "men",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1743053253_6854546.jpg?w=480&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1743053253_6854546.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1743053253_4699078.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1743053253_1619714.jpg?w=480&dpr=2"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Plaid: Blue And White",
+        "category": "Shirt",
+        "sub_category": "Shirts",
+        "price": 1499,
+        "type": "men",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1695283628_6557964.jpg?w=480&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1695283628_4925949.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1695283628_6557964.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1695283628_8926164.jpg?w=1080&dpr=2"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Colourblock: Cocoa",
+        "category": "Polos",
+        "sub_category": "Oversized Polos",
+        "price": 1099,
+        "type": "men",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1747039938_6121437.jpg?w=480&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1746637180_7627069.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1746637180_5779976.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1746637180_2152381.jpg?w=768&dpr=2"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "TSS Originals: Furious Dragon",
+        "category": "Polos",
+        "sub_category": "Oversized Polos",
+        "price": 1099,
+        "type": "men",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759748339_1449107.jpg?w=480&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759748339_6879181.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759748339_4291043.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1759748339_9974077.jpg?w=768&dpr=2"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "TSS Originals: Gamer Vibe",
+        "category": "Hoodies",
+        "sub_category": "Men Oversized Hoodies",
+        "price": 2499,
+        "type": "men",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1768384624_8635453.jpg?w=768&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1768384624_6484563.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1768384624_8558627.jpg?w=1080&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1768384624_6138684.jpg?w=1080&dpr=2"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Top Gun: Maverick",
+        "category": "Jackets",
+        "sub_category": "Jacket",
+        "price": 3999,
+        "type": "men",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1731671833_3841008.jpg?w=768&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1728730903_2020801.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1731672073_9829305.jpg?w=1080&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1731672073_6499020.jpg?w=768&dpr=2"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "TSS Originals: Kurukshetra",
+        "category": "Oversized T-Shirts",
+        "sub_category": "Super Oversized T-Shirts",
+        "price": 1799,
+        "type": "men",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1743657072_4845052.jpg?w=480&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1743657072_7439712.jpg?w=1080&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1743657072_9580718.jpg?w=1080&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1743657072_8969102.jpg?w=1080&dpr=2"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Cotton Linen Pants: Ecru",
+        "category": "Men Pants",
+        "sub_category": "Cotton Line Pants",
+        "price": 1749,
+        "type": "men",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1757572936_8366141.jpg?w=1080&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1749550551_3869247.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1749550551_1505424.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1749550551_5040606.jpg?w=1080&dpr=2"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Baggy-Fit Denim: Porpoise",
+        "category": "Men Jeans",
+        "sub_category": "Men Jeans",
+        "price": 2299,
+        "type": "men",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1765950312_6808123.jpg?w=1080&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1765950312_2736671.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1765950312_7554875.jpg?w=1080&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1765950312_9374856.jpg?w=1080&dpr=2"
+        ]
+      }
+    ],
+    "women": [
+      {
+        "id": 13,
+        "title": "TSS Originals: Berry Love",
+        "category": "Women Knitted Sweaters",
+        "sub_category": "Women Oversized Sweaters",
+        "price": 1799,
+        "type": "women",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1762937629_1342622.jpg?w=1080&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1762937629_9951523.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1762937629_3684991.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1762937629_3659566.jpg?w=768&dpr=2"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "We Bare Bears: Be The Bear",
+        "category": "Women Hoodies",
+        "sub_category": "Women Oversized Sweaters",
+        "price": 1999,
+        "type": "women",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1767160303_8641269.jpg?w=768&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1767160303_4831167.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1767160303_4664316.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1767160303_5407747.jpg?w=768&dpr=2"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Hello Kitty: Rockstar",
+        "category": "Women T-Shirts",
+        "sub_category": "Women Oversized T-Shirts",
+        "price": 699,
+        "type": "women",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764352066_5855779.jpg?w=768&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764352066_6448189.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764352066_5056054.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764352066_9634093.jpg?w=768&dpr=2"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Pink Panther: Comics",
+        "category": "Women Shirts",
+        "sub_category": "Women Holiday Shirts",
+        "price": 1099,
+        "type": "women",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1763126065_5589560.jpg?w=1080&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1763126065_7608191.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1763126065_6631332.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1763126065_7418812.jpg?w=768&dpr=2"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Barrel-Fit Denim: Sulphur",
+        "category": "Women Jeans",
+        "sub_category": "Women Cargo Jeans",
+        "price": 2399,
+        "type": "women",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1767078002_3708278.jpg?w=480&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1767078002_3708278.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1767078002_3708278.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1767078002_7841843.jpg?w=1080&dpr=2"
+        ]
+      },
+      {
+        "id": 18,
+        "title": "PPG: Girl Power Parachute Pants",
+        "category": "Women Pants",
+        "sub_category": "Women Pants",
+        "price": 1699,
+        "type": "women",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1753789046_7487988.gif?w=900&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1753789046_7487988.gif?w=900&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1753789046_6101400.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1753789046_5286125.jpg?w=1080&dpr=2"
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Disney: Dream In Pink",
+        "category": "Women Cropped Tops",
+        "sub_category": "Women Cropped Tops",
+        "price": 1099,
+        "type": "women",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1767605370_9570182.jpg?w=1080&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1767605370_5310503.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1767605370_4602647.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1767605370_5378932.jpg?w=1080&dpr=2"
+        ]
+      },
+      {
+        "id": 20,
+        "title": "TSS Originals: Lucky Cat",
+        "category": "Women Sweatshirts",
+        "sub_category": "Women Oversized Sweatshirts",
+        "price": 1699,
+        "type": "women",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1766556910_6561449.jpg?w=768&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1766042013_5953105.jpg?w=1080&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1766042013_2742733.jpg?w=1080&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1766042013_2939208.jpg?w=768&dpr=2"
+        ]
+      },
+      {
+        "id": 21,
+        "title": "Urban Blaze: Marshmallow",
+        "category": "Sneakers",
+        "sub_category": "Women Low Top Sneakers",
+        "price": 2599,
+        "type": "women",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1768301697_2205574.jpg?w=768&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1768301697_5345969.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1768301697_9731441.jpg?w=768&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1768301697_5308697.jpg?w=1080&dpr=2"
+        ]
+      }
+    ],
+    "SNEAKERS": [
+      {
+        "id": 22,
+        "title": "Urban Blaze: Hawkins",
+        "category": "Sneakers",
+        "sub_category": "Men Low Top Sneakers",
+        "price": 2599,
+        "type": "SNEAKERS",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/top_selling_1_RkjsCNr.jpg?w=360&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764844764_1688277.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764844764_3746876.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764844764_8141400.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764844764_6250332.jpg?w=480&dpr=2"
+        ]
+      },
+      {
+        "id": 23,
+        "title": "Urban Blaze: Court Blue",
+        "category": "Sneakers",
+        "sub_category": "Men Low Top Sneakers",
+        "price": 2499,
+        "type": "SNEAKERS",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764845623_1281426.jpg?w=480&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764845623_7129525.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764845623_6262033.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764845623_6083393.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764845623_3266346.jpg?w=480&dpr=2"
+        ]
+      },
+      {
+        "id": 24,
+        "title": "Urban Blaze: Latte",
+        "category": "Sneakers",
+        "sub_category": "Men Low Top Sneakers",
+        "price": 2599,
+        "type": "SNEAKERS",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764844504_5535387.jpg?w=480&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764844504_5408983.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764844504_8920989.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764844504_8745415.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764844504_1257703.jpg?w=480&dpr=2"
+        ]
+      },
+      {
+        "id": 25,
+        "title": "Urban Blaze: Fury",
+        "category": "Sneakers",
+        "sub_category": "Men Low Top Sneakers",
+        "price": 2599,
+        "type": "SNEAKERS",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1737614377_4461322.jpg?w=480&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1737614377_4431256.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1737614377_6896028.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1737614377_5486852.jpg?w=480&dpr=2"
+        ]
+      },
+      {
+        "id": 26,
+        "title": "Naruto Shippuden: Kakashi",
+        "category": "Sneakers",
+        "sub_category": "Men High Top Sneakers",
+        "price": 3699,
+        "type": "SNEAKERS",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1765956261_2691214.jpg?w=480&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1765622420_3539406.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1765622420_8336378.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1765622420_8434491.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1765622420_4117273.jpg?w=480&dpr=2"
+        ]
+      },
+      {
+        "id": 27,
+        "title": "Naruto Shippuden: Sasuke",
+        "category": "Sneakers",
+        "sub_category": "Men High Top Sneakers",
+        "price": 3499,
+        "type": "SNEAKERS",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1755280285_4632885.jpg?w=480&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1755280285_2459400.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1755280285_4433673.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1755280285_5164264.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1755280285_2308436.jpg?w=480&dpr=2"
+        ]
+      },
+      {
+        "id": 28,
+        "title": "Fantastic 4: Quantum Step",
+        "category": "Sneakers",
+        "sub_category": "Men High Top Sneakers",
+        "price": 3899,
+        "type": "SNEAKERS",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1753767995_6259005.jpg?w=480&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1752844889_5042877.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1752844889_7477350.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1752847014_3198031.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1752847045_6183468.jpg?w=480&dpr=2"
+        ]
+      },
+      {
+        "id": 29,
+        "title": "Batman: The Dark Knight 2.0",
+        "category": "Sneakers",
+        "sub_category": "Men High Top Sneakers",
+        "price": 3699,
+        "type": "SNEAKERS",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/6_1_01SeWDn.jpg?w=360&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764409343_8318094.jpg?w=1080&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764409343_4482274.jpg?w=1080&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764409343_6351800.jpg?w=1080&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1764409343_7930479.jpg?w=1080&dpr=2"
+        ]
+      },
+      {
+        "id": 30,
+        "title": "Souled Socks: Cherries",
+        "category": "Socks",
+        "sub_category": "Socks",
+        "price": 299,
+        "type": "SNEAKERS",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1766559498_9171036.jpg?w=480&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1766559560_6678860.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1765971022_1480798.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1765971022_6246197.jpg?w=480&dpr=2"
+        ]
+      },
+      {
+        "id": 31,
+        "title": "TSS Originals: On Fire",
+        "category": "Socks",
+        "sub_category": "Socks",
+        "price": 299,
+        "type": "SNEAKERS",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1739857781_1533211.jpg?w=480&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1739857781_5716393.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1739857781_3887757.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1744805935_4638276.jpg?w=480&dpr=2"
+        ]
+      },
+      {
+        "id": 32,
+        "title": "TSS Originals: Emoticons",
+        "category": "Socks",
+        "sub_category": "Socks",
+        "price": 299,
+        "type": "SNEAKERS",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1744176299_6161132.png?w=480&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1744010096_9729214.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1744010096_4749079.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1744010096_3283743.jpg?w=480&dpr=2"
+        ]
+      },
+      {
+        "id": 33,
+        "title": "FRIENDS: The Frame",
+        "category": "Socks",
+        "sub_category": "Socks",
+        "price": 299,
+        "type": "SNEAKERS",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1738675186_8432956.jpg?w=480&dpr=2",
+        "images": [
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1737111125_2601157.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1737111125_6263134.jpg?w=480&dpr=2",
+          "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1737111125_9793441.jpg?w=480&dpr=2"
+        ]
+      }
+    ]
+  },
+  "Register": [
+    {
+      "fname": "sarika",
+      "Emailid": "sarika@gmail.com",
+      "confpassword": "Sarika@123",
+      "radiogender": "female",
+      "lname": "donga",
+      "id": "3"
+    },
+    {
+      "fname": "PATEL",
+      "Emailid": "poojanp150@gmail.com",
+      "confpassword": "poojanP150@",
+      "radiogender": "male",
+      "radioselect": "Customer",
+      "lname": "SHAILESHBHAI",
+      "id": "4"
+    },
+    {
+      "fname": "PATEL",
+      "Emailid": "poojanp250@gmail.com",
+      "confpassword": "poojanP12@",
+      "radiogender": "male",
+      "radioselect": "admin",
+      "lname": "poojan",
+      "id": "5"
+    }
+  ],
+  "Login": {},
+  "cart": [],
+  "wishlistProduct": [],
+  "Paymentdata": {
+    "cartTotal": 5498,
+    "gst": 989.64,
+    "totalAmount": 6487.64
+  },
+  "order": []
+}

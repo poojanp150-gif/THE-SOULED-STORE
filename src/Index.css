@@ -1,0 +1,26 @@
+  #addMessage {
+  position: fixed;
+  
+  right: -300px;   
+  padding: 15px 25px;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: right 0.5s ease, opacity 0.5s ease;
+  z-index: 9999;
+  opacity: 0;
+}
+
+#addMessage.show {
+  right: 20px;     
+  opacity: 1;
+}
+
+    .custom-heart {
+  font-size: 1rem; 
+}
+
+@media (min-width: 576px) {
+  .custom-heart {
+    font-size: 1.25rem; 
+  }
+}
