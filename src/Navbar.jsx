@@ -112,7 +112,7 @@ export default function Navbar() {
                             </li>
 
                             <li className="nav-item">
-                                <Link to='/women' className="nav-link fw-bold text-dark" data-aos="fade-up"
+                                <Link to='/THE-SOULED-STORE' className="nav-link fw-bold text-dark" data-aos="fade-up"
      data-aos-duration="3000">
                                     WOMEN</Link>
                             </li>
@@ -259,7 +259,8 @@ export default function Navbar() {
                             <Link to="/" className="nav-link fw-bold text-dark">MEN</Link>
                         </li>
                         <li className="col">
-                            <Link to="/women" className="nav-link fw-bold text-dark">WOMEN</Link>
+                            <Link to="/
+THE-SOULED-STORE" className="nav-link fw-bold text-dark">WOMEN</Link>
                         </li>
                         <li className="col">
                             <Link to="/Sneakers" className="nav-link fw-bold text-dark" >SNEAKERS</Link>

@@ -30,7 +30,7 @@ function App() {
           <Route path='/search/:value' element={<Searchbar />} />
           <Route path='*' element={<PageNotFound />}></Route>
           <Route path='/Singleproud/:id' element={<SingleProductPage />} />
-          <Route path='/women' element={<Women />} />
+          <Route path='/THE-SOULED-STORE' element={<Women />} />
           <Route path='/Sneakers' element={<Sneakers/>} />
           <Route path='/Wishlist' element={<Wishlist />} />
           <Route path='/Register' element={<Register />} />
@@ -45,7 +45,7 @@ function App() {
           <Route path="/FAQ" element={<FAQ/>} />
         </Route>
       </Routes>
-    
+    {/* <p>hi my name is poojan i am 22 year old and i leeving in a</p> */}
     
         
 
