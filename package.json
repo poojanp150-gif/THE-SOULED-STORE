@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://{poojanp150-gif}.github.io/{THE-SOULED-STORE}/",
+  "homepage": "https://poojanp150-gif.github.io/THE-SOULED-STORE/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
